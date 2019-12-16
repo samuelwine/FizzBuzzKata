@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.AssemblyInfo.cs
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.Test.deps.json
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.Test.runtimeconfig.json
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.Test.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.Test.dll
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.Test.pdb
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.csproj.CopyComplete
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.dll
+C:\Users\HP\source\repos\FizzBuzz\FizzBuzz.Test\obj\Debug\netcoreapp2.2\FizzBuzz.Test.pdb
