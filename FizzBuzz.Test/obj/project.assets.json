@@ -5868,23 +5868,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\syw\\.nuget\\packages\\": {},
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\syw\\source\\repos\\Fizzbuzzkata\\FizzBuzz.Test\\FizzBuzz.Test.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\FizzBuzz\\FizzBuzz.Test\\FizzBuzz.Test.csproj",
       "projectName": "FizzBuzz.Test",
-      "projectPath": "C:\\Users\\syw\\source\\repos\\Fizzbuzzkata\\FizzBuzz.Test\\FizzBuzz.Test.csproj",
-      "packagesPath": "C:\\Users\\syw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\syw\\source\\repos\\Fizzbuzzkata\\FizzBuzz.Test\\obj\\",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\FizzBuzz\\FizzBuzz.Test\\FizzBuzz.Test.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\FizzBuzz\\FizzBuzz.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\syw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5897,8 +5897,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\syw\\source\\repos\\Fizzbuzzkata\\FizzBuzz\\FizzBuzz.csproj": {
-              "projectPath": "C:\\Users\\syw\\source\\repos\\Fizzbuzzkata\\FizzBuzz\\FizzBuzz.csproj"
+            "C:\\Users\\HP\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }
