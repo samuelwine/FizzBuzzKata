@@ -59,7 +59,7 @@ namespace FizzBuzz.Test
         [InlineData(4)]
         [InlineData(11)]
         [InlineData(29)]
-        public void DoesNotPrintStringWhenUndivisibleByThreeOrFive(int input)
+        public void NotPrintStringWhenUndivisibleByThreeOrFive(int input)
         {            
             //  Act            
             var stringResult = _fizzBuzzGenerator.ModifyOutput(input);
