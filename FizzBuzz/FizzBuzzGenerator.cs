@@ -10,7 +10,8 @@ namespace FizzBuzz
         {
             for (int i = 1; i <= 100; i++)
             {
-                ModifyOutput(i);                                 
+                var output = ModifyOutput(i);
+                Console.WriteLine(output);
             }
 
             Console.ReadLine();
@@ -21,8 +22,8 @@ namespace FizzBuzz
             string stringResult = "";
 
             if (input % 3 != 0 && input % 5 != 0)
-            {
-                Console.WriteLine(input);
+            {                
+                return stringResult = input.ToString();
             }
 
             else
@@ -35,9 +36,7 @@ namespace FizzBuzz
                 if (input % 5 == 0)
                 {
                     stringResult += "Buzz";
-                }
-
-                Console.WriteLine(stringResult);                
+                }                             
             }
 
             return stringResult;
